@@ -3,7 +3,7 @@
 
 ## 유튜브 채널
 
-- 채널 URL: www.youtube.com/@하루코딩-u8z
+- 채널 URL: http://www.youtube.com/@하루코딩-u8z
 
 ## 제출 영상
 
